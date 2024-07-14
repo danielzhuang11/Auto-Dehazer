@@ -18,3 +18,11 @@ optimal dehazing algorithm, which could be used in photo-editing programs to deh
 
 Another possible impact is to help pre-process hazy images for object-detection AI so that the image features are clearer,
 leading to better accuracy
+
+## Results:
+
+![image](https://github.com/user-attachments/assets/53642e7d-7804-4c90-a5e2-38d47d8e61b1)
+
+For land images, the image becomes more vibrant with edges more clearly shown. For underwater
+images, there is a clear color shift from the ocean green to an estimate of the objects’ true colors. The edges also become
+clearer
