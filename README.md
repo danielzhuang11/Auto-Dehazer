@@ -1,4 +1,4 @@
-#Auto-Dehazer
+# Auto-Dehazer
 
 Team members: Daniel Zhuang (dzhuang6), Han Chen (hanc7), Eric Jin (ericjin2)
 
